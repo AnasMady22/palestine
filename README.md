@@ -1,6 +1,6 @@
 # Change Your Shell and Add Some Logos to Palestine
 
-Welcome to the "Change Your Shell and Add Some Logos to Palestine" repository! This project allows you to customize your shell and add some beautiful logos related to Palestine.
+ This project allows you to customize your shell and add some beautiful logos related to Palestine.
 
 ![Palestine Logo](logo.png)
 
