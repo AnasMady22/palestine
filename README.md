@@ -21,19 +21,24 @@ Welcome to the "Change Your Shell and Add Some Logos to Palestine" repository! T
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/change-shell-and-add-logos.git
+    git clone https://github.com/AnasMady22/palestine.git
     ```
 
 2. Change into the project directory:
 
     ```bash
-    cd change-shell-and-add-logos
+    cd palestine
     ```
-
-3. Run the setup script:
+3. Change into the project directory:
 
     ```bash
-    ./setup.sh
+    chmod +x run.sh
+    ```
+
+4. Run the setup script:
+
+    ```bash
+    ./run.sh
     ```
 
     Follow the on-screen instructions to customize your shell and add logos.
@@ -48,9 +53,5 @@ Feel free to contribute to this project by opening issues or submitting pull req
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README to suit the specifics of your project. You can replace the logo placeholders (`logo.png` and `screenshot.png`) with actual images relevant to your project. If you encounter any issues or have questions, please don't hesitate to reach out!
+This project is licensed under the [ME](LICENSE).
 
